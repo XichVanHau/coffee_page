@@ -1,0 +1,26 @@
+:root {
+    --shop-color: #FF902B;
+    --text-color: #7E7D7A;
+    --btn-color: #2F2105;
+    --btn_text-color: #F4AE26;
+    --while-color: #fff;
+    --black-color: #000;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+}
+
+html {
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+}
+
+
+/* mobile */
